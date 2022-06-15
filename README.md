@@ -1,2 +1,1 @@
-My first readme
-Again with tasks
+A journey like no other. 
